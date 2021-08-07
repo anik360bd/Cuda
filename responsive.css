@@ -1,0 +1,105 @@
+@media only screen and (max-width: 1024px) {
+    .row{
+        margin: 0 3rem;
+    }
+    html{
+        font-size: 57.5%; 
+    }
+ }
+ @media only screen and(max-width:992px){
+}.contact-section form {
+    width: 80%;
+    margin-left: 10%;
+} 
+@media only screen and (max-width:992px){
+    .main-nav{
+        display: none;
+    }
+    .mobile-menu span{
+        display: block;
+    }
+    .span_1_of_4{
+        width: 49.2%;
+    }
+    .span_1_of_4:nth-child(3){
+        margin-left: 0;
+    }
+    .team-section h3 {
+        width: -1rem;
+    }
+    html{
+        font-size: 62.5%; 
+    }
+    .client-photo {
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .client-reviw {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    h2{
+        font-size: 3.5rem;
+    }
+}
+@media only screen and (max-width:992px){
+    h1{
+        font-size: 3.5rem;
+    }
+    .hero-text-box {
+        width: 60rem;
+    }
+
+    .fortfolio-section img {
+    height: auto;
+    }
+    .little-description{
+    width: 100%;
+    margin-left: 0;
+    }
+    .footer-secton ul li { 
+    padding: 0 1rem;
+    }
+    .contact-section form{
+        width: 100%;
+        margin-left: 0;
+    }
+    .testimonial-secion h4{
+        font-size: 2rem;
+    }
+    .client-reviw .role {
+        font-size: 1.5rem;
+    }
+
+}
+@media only screen and (max-width:480px){
+    .span_1_of_4{
+        width: 100%;
+    }
+    h1{
+        font-size: 4rem;
+    }
+    .hero-text-box {
+        width: 45rem;
+    }
+}
+@media only screen and (max-width:425px){
+    h1{
+        font-size: 3rem;
+    }
+    .hero-text-box {
+        width: 30rem;
+    }
+    .forfolio-btn button:nth-child(4) {
+        margin-top: .8rem;
+    }
+    .contact-section form .row{
+        width: 100%;
+        margin-left: 0;
+    }
+    h2{
+        font-size: 2.5rem;
+    }
+}
